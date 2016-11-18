@@ -1,0 +1,31 @@
+﻿@model HITEF.Models.ContactoFormViewModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <div>
+        <p>Hola Pablo, una nueva solicitud ha sido creada.</p>
+        <p>Por favor, vea la siguiente tabla para mas informacion:</p>
+        <table class="table table-bordered">
+            <tr class="row">
+                <td>Nombre:</td>
+                <td>Telefono:</td>
+                <td>Correo Electronico:</td>
+                <td>Mensaje:</td>
+            </tr>
+            <tr class="row">
+                <td>@Model.Nombre</td>
+                <td>@Model.Telefono</td>
+                <td>@Model.CorreoElectronico</td>
+                <td>@Model.Mensaje</td>
+            </tr>
+        </table>
+        <p>Recuerde que tambien puede acceder al sitio web como administrador<br /> 
+        para ver todas las solicitudes en un portal bien organizado.</p>
+    </div>
+</body>
+</html>

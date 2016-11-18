@@ -1,0 +1,36 @@
+﻿@model HITEF.Models.LoginFormViewModel
+
+@{
+    ViewBag.Title = "Administrador";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Administrador:</h2>
+
+
+    @using (Html.BeginForm("AdminLogin", "Home", FormMethod.Post, new { role = "form", @class="form-horizontal"}))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true, "", new { @class = "" })
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Usuario, new { @class = "col-lg-2 control-label" })
+            <div class="col-lg-10">
+                @Html.TextBoxFor(m => m.Usuario, new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.Usuario, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Contraseña, new { @class = "col-lg-2 control-label" })
+            <div class="col-lg-10">
+                @Html.TextBoxFor(m => m.Contraseña, new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.Contraseña, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-lg-10 col-lg-offset-2">
+                <button type="submit" class="btn btn-success">Ingresar</button>
+            </div>
+        </div>
+    }

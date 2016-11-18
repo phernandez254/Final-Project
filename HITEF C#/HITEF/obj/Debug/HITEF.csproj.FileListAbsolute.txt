@@ -1,0 +1,160 @@
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\roslyn\csc.exe
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\roslyn\System.Collections.Immutable.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\roslyn\vbc.exe
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\roslyn\VBCSCompiler.exe
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\roslyn\VBCSCompiler.exe.config
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\HITEF.dll.config
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\HITEF.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\HITEF.pdb
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\Microsoft.Web.Infrastructure.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\System.Web.Helpers.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\System.Web.Mvc.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\System.Web.Razor.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\System.Web.Webpages.Deployment.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\System.Web.Webpages.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\System.Web.Webpages.Razor.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\System.Web.Razor.xml
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\System.Web.Webpages.xml
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\System.Web.Webpages.Deployment.xml
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\System.Web.Webpages.Razor.xml
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\System.Web.Helpers.xml
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\System.Web.Mvc.xml
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\obj\Debug\HITEF.csprojResolveAssemblyReference.cache
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\obj\Debug\HITEF.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\obj\Debug\HITEF.pdb
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\Antlr3.Runtime.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\Newtonsoft.Json.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\System.Web.Optimization.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\WebGrease.dll
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\Antlr3.Runtime.pdb
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\Newtonsoft.Json.xml
+c:\users\phernandez\documents\visual studio 2015\Projects\HITEF\HITEF\bin\System.Web.Optimization.xml
+C:\Users\Pablo\Desktop\HITEF\HITEF\obj\Debug\HITEF.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\HITEF\HITEF\obj\Debug\HITEF.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\obj\Debug\HITEF.pdb
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\roslyn\csc.exe
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\roslyn\vbc.exe
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\HITEF.dll.config
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\HITEF.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\HITEF.pdb
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\Antlr3.Runtime.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\System.Web.Helpers.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\System.Web.Mvc.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\System.Web.Optimization.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\System.Web.Razor.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\System.Web.Webpages.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\System.Web.Webpages.Razor.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\WebGrease.dll
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\Antlr3.Runtime.pdb
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\System.Web.Optimization.xml
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\System.Web.Razor.xml
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\System.Web.Webpages.xml
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\System.Web.Webpages.Razor.xml
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\System.Web.Helpers.xml
+C:\Users\Pablo\Desktop\HITEF\HITEF\bin\System.Web.Mvc.xml
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\roslyn\csc.exe
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\roslyn\vbc.exe
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\roslyn\VBCSCompiler.exe
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\HITEF.dll.config
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\HITEF.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\HITEF.pdb
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\Antlr3.Runtime.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\Newtonsoft.Json.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\System.Web.Helpers.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\System.Web.Mvc.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\System.Web.Optimization.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\System.Web.Razor.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\System.Web.Webpages.Deployment.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\System.Web.Webpages.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\System.Web.Webpages.Razor.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\WebGrease.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\Antlr3.Runtime.pdb
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\Newtonsoft.Json.xml
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\System.Web.Optimization.xml
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\System.Web.Razor.xml
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\System.Web.Webpages.xml
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\System.Web.Webpages.Deployment.xml
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\System.Web.Webpages.Razor.xml
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\System.Web.Helpers.xml
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\bin\System.Web.Mvc.xml
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\obj\Debug\HITEF.csprojResolveAssemblyReference.cache
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\obj\Debug\HITEF.dll
+C:\Users\phernandez\Desktop\HITEF C#\HITEF\obj\Debug\HITEF.pdb
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\roslyn\csc.exe
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\roslyn\vbc.exe
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\HITEF.dll.config
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\HITEF.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\HITEF.pdb
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\Antlr3.Runtime.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\System.Web.Helpers.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\System.Web.Mvc.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\System.Web.Optimization.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\System.Web.Razor.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\System.Web.Webpages.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\System.Web.Webpages.Razor.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\WebGrease.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\Antlr3.Runtime.pdb
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\System.Web.Optimization.xml
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\System.Web.Razor.xml
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\System.Web.Webpages.xml
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\System.Web.Webpages.Razor.xml
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\System.Web.Helpers.xml
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\bin\System.Web.Mvc.xml
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\obj\Debug\HITEF.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\obj\Debug\HITEF.dll
+C:\Users\Pablo\Desktop\HITEF C#\HITEF\obj\Debug\HITEF.pdb

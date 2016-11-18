@@ -1,0 +1,15 @@
+﻿@model HITEF.Models.ContactoFormViewModel
+
+@{
+    ViewBag.Title = "Confirmacion";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>Gracias...</h2>
+
+<p class="text-success">Su mensaje ha sido enviado a Pablo Hernandez y a Alain Colas. <p>
+
+<p> Usted sera contactado a su telefono @{@Model.Telefono}, o a su correo electronico @{@Model.CorreoElectronico}.</p>
+
+<p>Gracias por contactar a HITEF. Tenga un excelente dia!</p>

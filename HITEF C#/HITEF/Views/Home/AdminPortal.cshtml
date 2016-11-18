@@ -1,0 +1,29 @@
+﻿@model List<HITEF.Models.ContactoFormViewModel>
+
+@{
+    ViewBag.Title = "Portal";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Portal del administrador:</h2>
+
+<table class="table table-bordered">
+    <tr class="row">
+        <td class="text-success">Nombre:</td>
+        <td class="text-success">Telefono:</td>
+        <td class="text-success">Correo Electronico:</td>
+        <td class="text-success">Mensaje:</td>
+    </tr>
+    @{          
+            foreach (var item in Model)
+            {
+                <tr class="row">
+                    <td>@item.Nombre</td>
+                    <td>@item.Telefono</td>
+                    <td>@item.CorreoElectronico</td>
+                    <td>@item.Mensaje</td>
+                </tr>
+            }       
+    }   
+</table>
+

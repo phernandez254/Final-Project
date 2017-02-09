@@ -20,7 +20,7 @@ namespace HITEF.Controllers
 
         public ActionResult QuienesSomos()
         {
-            ViewBag.Message = "Quienes Somos";
+            ViewBag.Message = "Quienes Somos"; 
 
             return View();
         }
@@ -132,7 +132,7 @@ namespace HITEF.Controllers
             StreamReader objstreamreaderfile = new StreamReader(templateFilePath);
 
             var emailBody = await objstreamreaderfile.ReadToEndAsync();
-            return emailBody;
+            return emailBody; 
         }
     }
 }

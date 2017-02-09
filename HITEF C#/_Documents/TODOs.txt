@@ -1,0 +1,12 @@
+Anadir estas ligas:
+
+ETRADE Financial Corporation
+https://us.etrade.com/home
+
+TODOs:
+1) Implementar el metodo de encrypcion de la contraseña hacia la base de datos.
+2) Anadir fecha a la base de datos y al portal de administrador.
+3) Anadir fotos a la pagina de inicio. (las fotos las proveera Orestes/Miguel)
+4) Implementar una mejora en la pagina de Cursos donde se muestre la fecha y horario, el lugar, nombre de profesor, el costo y un boton que de la opcion de incribirse en ese curso. 
+Poner los cursos en un tipo de slide, donde solo se vera un curso a la vez.
+5) Anadir tabla a la base de datos para almacenar la informacion de registraciones de los cursos. 
